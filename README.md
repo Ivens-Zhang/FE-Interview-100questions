@@ -2,12 +2,10 @@
 
 ### 贡献者
 
-<div>
 <a href="https://github.com/Ivens-Zhang">
-<image src="https://avatars0.githubusercontent.com/u/49118158?s=400&u=df603faa06f440a17b4360ed8fbdb02b11c3359b&v=4" style="width: 50px;border-radius:50%;display: inline-block;"></a>
+<img width="50px" src="https://avatars0.githubusercontent.com/u/49118158?s=400&u=df603faa06f440a17b4360ed8fbdb02b11c3359b&v=4" style="display: inline-block;"></a>
 <a href="https://github.com/prefectday">
-<image src="https://avatars1.githubusercontent.com/u/55936340?s=400&v=4" style="width: 50px;border-radius:50%;display: inline-block;"></a>
-</div>
+<img width="50px" src="https://avatars1.githubusercontent.com/u/55936340?s=400&v=4" style="display: inline-block;"></a>
 
 ### HTML 部分
 
